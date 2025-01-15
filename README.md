@@ -1,6 +1,6 @@
 # VALA RL 25
 
-Welcome to VALA RL 25. In this repository, you will find three notebooks:
+Welcome to VALA RL 25. In this repository, you will find the lecture slides [here](slides), and three notebooks:
 
 - [Notebook 1](src/1_dqn.ipynb) implements the *Deep-Q Network* (DQN) algorithm.
 - [Notebook 2](src/2_seed_impact.ipynb) investigates the impact of the random seed on the training of machine learning models.
